@@ -1,0 +1,326 @@
+{
+   "produtos":[
+      {
+         "id":1,
+         "titulo":"Ração Seca Nutrilus Pro Frango & Carne para Cães Adultos",
+         "descricoes":[
+            {
+               "descricao1":"- Sabor irresistível;",
+               "descricao2":"- Intestino saudável;",
+               "descricao3":"- Proteínas de alta qualidade;",
+               "descricao4":"- Pelagem mais macia e brilhante;",
+               "descricao5":"- Redução do odor e firmeza das fezes;",
+               "descricao6":"- Sem corantes e aromatizantes artificiais;",
+               "descricao7":"- Desenvolvida por veterinários a partir de ingredientes selecionados;",
+               "descricao8":" - Enriquecido com vitaminas e minerais essenciais para maior saúde e vitalidade."
+            }
+         ],
+         "detalhes":"A Ração Seca Nutrilus Pro Frango & Carne para Cães Adultos traz nutrição de alta qualidade pelo melhor custo beneficio. Desenvolvido por veterinários a partir de ingredientes selecionados, sem corantes e aromatizantes artificiais, a Ração Seca Nutrilus Pro Frango & Carne para Cães Adultos garante uma alimentação balanceada e sabor irresistível.",
+         "tamanhos":[
+            {
+               "qtd":15,
+               "unidade":"kg",
+               "preco":"R$ 6,89",
+               "label":"Pacote de 15kg",
+               "url":"https://www.petlove.com.br/images/products/237058/product/Ra%C3%A7%C3%A3o_Seca_Nutrilus_Pro_Frango___Carne_para_C%C3%A3es_Adultos_2492301_15kg.jpg"
+            },
+            {
+               "qtd":20,
+               "unidade":"kg",
+               "preco":"R$ 6,66",
+               "label":"Pacote de 20kg",
+               "url":"https://www.petlove.com.br/images/products/237059/product/Ra%C3%A7%C3%A3o_Seca_Nutrilus_Pro_Frango___Carne_para_C%C3%A3es_Adultos_2492301_20kg.jpg"
+            }
+         ]
+      },
+      {
+         "id":2,
+         "titulo":"Ração Affinity PetCare GranPlus Choice Frango e Carne para Cães Adultos",
+         "descricoes":[
+            {
+               "descricao1":"- Manutenção da massa muscular, com fontes nobres de proteína;",
+               "descricao2":"- Este produto possui Satisfação Garantida. Saiba mais abaixo na descrição;",
+               "descricao3":"- Nutrição equilibrada, nível ideal de nutrientes para auxiliar na manutenção da saúde e na formação de fezes firmes;",
+               "descricao4":"- Ossos e dentes saudáveis, com vitaminas e minerais que auxiliam na manutenção de ossos e dentes saudáveis."
+            }
+         ],
+         "detalhes":"A Ração Affinity PetCare GranPlus Choice Frango e Carne para Cães Adultos é um alimento completo e equilibrado que proporciona aos cães adultos o nível ideal de todos os ingredientes para auxiliá-los a se manterem fortes e saudáveis. Além disso, é formulado com proteínas de origem animal de alta qualidade e é indicado para cães adultos de todos os portes.",
+         "tamanhos":[
+            {
+               "qtd":15,
+               "unidade":"kg",
+               "preco":"R$ 8,39",
+               "label":"Pacote de 15kg",
+               "url":"https://www.petlove.com.br/images/products/222292/product/Ra%C3%A7%C3%A3o_Affinity_PetCare_GranPlus_Choice_Frango_e_Carne_para_C%C3%A3es_Adultos_3109089_15kg.jpg"
+            },
+            {
+               "qtd":20,
+               "unidade":"kg",
+               "preco":"R$ 8,10",
+               "label":"Pacote de 20kg",
+               "url":"https://www.petlove.com.br/images/products/223961/product/Ra%C3%A7%C3%A3o_Affinity_PetCare_GranPlus_Choice_Frango_e_Carne_para_C%C3%A3es_Adultos_3109089_20kg.jpg"
+            }
+         ]
+      },
+      {
+         "id":3,
+         "titulo":"Ração Optimum Frango e Arroz para Cães Adultos Raças Médias e Grandes 1+ Anos",
+         "descricoes":[
+            {
+               "descricao1":"- 23% Proteína e 12% Gordura;",
+               "descricao2":"- Sem aromas e corantes artificiais;",
+               "descricao3":"- Zinco e Ômega 6, pele e pelos sadios;",
+               "descricao4":"- Cálcio e Fósforo, dentes e ossos fortes;",
+               "descricao5":"- Perfeita absorção de nutrientes, Bioavailability;",
+               "descricao6":"- Vitamina E e Selênio, nutrientes com ação antioxidante;",
+               "descricao7":"- Proteína de frango e fibras naturais, digestão equilibrada."
+            }
+         ],
+         "detalhes":"Elaborada com excelentes matérias-primas, proteínas selecionadas cuidadosamente e nutrientes fundamentais, a Ração Optimum Dry Frango e Arroz para Cães Adultos Raças Médias e Grandes 1+ Anos têm como principal objetivo proporcionar ao seu pet o aproveitamento máximo do alimento, para que desfrute por completo do melhor da vida. Promove excelente absorção de nutrientes, pele e pelos saudáveis, ossos e dentes fortes. Com proteína de frango e fibras naturais que contribuem para a melhora intestinal e a absorção de nutrientes tornando as fezes mais firmes, em menor quantidade e fácies de limpar.",
+         "tamanhos":[
+            {
+               "qtd":3,
+               "unidade":"kg",
+               "preco":"R$ 16,20",
+               "label":"Pacote de 3kg",
+               "url":"https://www.petlove.com.br/images/products/204292/product/Ra%C3%A7%C3%A3o_Optimum_Frango_e_Arroz_para_C%C3%A3es_Adultos_Ra%C3%A7as_M%C3%A9dias_e_Grandes_1__Anos_3Kg_2034793.jpg"
+            },
+            {
+               "qtd":15,
+               "unidade":"kg",
+               "preco":"R$ 9,60",
+               "label":"Pacote de 15kg",
+               "url":"https://www.petlove.com.br/images/products/204294/product/Ra%C3%A7%C3%A3o_Optimum_Frango_e_Arroz_para_C%C3%A3es_Adultos_Ra%C3%A7as_M%C3%A9dias_e_Grandes_1__Anos_15Kg_2034793.jpg"
+            }
+         ]
+      },
+      {
+         "id":4,
+         "titulo":"Ração Seca Nestlé Purina One Frango e Carne para Cães Adultos Raças Minis e Pequenas",
+         "descricoes":[
+            {
+               "descricao1":"- Possui fontes naturais de fibras e proteínas;",
+               "descricao2":"- Garante maior digestibilidade e fezes mais firmes;",
+               "descricao3":"- Com polpa de beterraba, fortalecendo a flora intestinal;",
+               "descricao4":"- Contém alga e óleo de coco, ricos em ômega 3, ajudando no desenvolvimento do cérebro e visão;",
+               "descricao5":"- Tem como ingrediente principal a carne, resultando em maior absorção e aproveitamento dos aminoácidos;",
+               "descricao6":"- Formulada com grãos integrais selecionados como aveia, trigo e milho em níveis que fornecem uma energia saudável."
+            }
+         ],
+         "detalhes":"Pensando sempre na felicidade e bem-estar do seu amiguinho, a Ração Seca Nestlé Purina One Frango e Carne para Cães Adultos Raças Minis e Pequenas foi formulada por nutricionistas com ingredientes naturais e funcionais, transformados através de um processo especial de cozimento em combinações perfeitas para uma vida saudável com sabor irresistível!",
+         "tamanhos":[
+            {
+               "embalagem":0.1,
+               "unidade":"kg",
+               "preco":"R$ 3,43",
+               "label":"Pacote de 700g",
+               "url":"https://www.petlove.com.br/images/products/226118/product/Ra%C3%A7%C3%A3o_Seca_Nestl%C3%A9_Purina_One_Frango_e_Carne_para_C%C3%A3es_Adultos_Ra%C3%A7as_Minis_e_Pequenas_-_700_g_2534095.jpg"
+            },
+            {
+               "qtd":0.1,
+               "unidade":"kg",
+               "preco":"R$ 2,83",
+               "label":"Pacote de 2kg",
+               "url":"https://www.petlove.com.br/images/products/226123/product/Ra%C3%A7%C3%A3o_Seca_Nestl%C3%A9_Purina_One_Frango_e_Carne_para_C%C3%A3es_Adultos_Ra%C3%A7as_Minis_e_Pequenas_-_2_Kg_2534096.jpg"
+            },
+            {
+               "qtd":0.1,
+               "unidade":"kg",
+               "preco":"R$ 1,70",
+               "label":"Pacote de 6kg",
+               "url":"https://www.petlove.com.br/images/products/226129/product/Ra%C3%A7%C3%A3o_Seca_Nestl%C3%A9_Purina_One_Frango_e_Carne_para_C%C3%A3es_Adultos_Ra%C3%A7as_Minis_e_Pequenas_-_6_Kg_2534097.jpg"
+            },
+            {
+               "qtd":0.1,
+               "unidade":"kg",
+               "preco":"R$ 1,44",
+               "label":"Pacote de 15kg",
+               "url":"https://www.petlove.com.br/images/products/226356/product/RACAOS_1.JPG"
+            }
+         ]
+      },
+      {
+         "id":5,
+         "titulo":"Ração Seca Fórmula Natural Fresh Meat Cães Adultos Raças Mini e Pequena",
+         "descricoes":[
+            {
+               "descricao1":"- Ideal para pets que vivem em ambientes internos;",
+               "descricao2":"- Embalagens de 7 Kg fracionadas em pacotes de 500 g;",
+               "descricao3":"- Com colágeno, condroitina e glucosamina que são elementos presentes nas articulações e favorecem a mobilidade;",
+               "descricao4":"- Fezes em menor volume e menos odor devido a combinação de ingredientes de altíssima qualidade associados ao estrato de yucca, fibras naturais e prebióticos;",
+               "descricao5":"- A utilização de carne fresca e ingredientes naturais de alta qualidade proporcionam ao alimento uma palatabilidade incrível, atendendo os paladares mais exigentes;",
+               "descricao6":"- Um alimento balanceado com proteínas de alto valor biológico, como o da carne fresca de frango, aliadas a vitaminas, ômegas 3-6 e colágeno favorecem uma pelagem mais bonita e brilhante."
+            }
+         ],
+         "detalhes":"A Ração Seca Fórmula Natural Fresh Meat Cães Adultos Raças Mini e Pequena tem como grande diferencial a utilização de diferentes cortes de carne, uma variedade de frutas e vegetais e sem a utilização de grãos - “grain free”. Além disso, sua receita fornece nutrientes que atendem as necessidades de forma equilibrada, dos cães adultos de porte miniatura e pequeno. A embalagem I'm Green, foi desenvolvida em polietileno verde, com o sistema VELCRO® nas versões de 1 Kg e 2,5 Kg. O sistema de fechamento PRESS-LOK® facilita o abrir e fechar do manuseio diário. A linha Fórmula Natural Fresh Meat foi desenvolvida por médicos veterinários utilizando os conceitos mais avançados de nutrição para sua elaboração.",
+         "tamanhos":[
+            {
+               "qtd":1,
+               "unidade":"kg",
+               "preco":"R$ 49,41",
+               "label":"Pacote de 1kg",
+               "url":"https://www.petlove.com.br/images/products/241646/product/Foto_01_2399742_Ra%C3%A7%C3%A3o_Seca_F%C3%B3rmula_Natural_Fresh_Meat_C%C3%A3es_Adultos_Ra%C3%A7as_Mini_e_Pequena.jpg"
+            },
+            {
+               "qtd":2.5,
+               "unidade":"kg",
+               "preco":"R$ 39,42",
+               "label":"Pacote de 2,5kg",
+               "url":"https://www.petlove.com.br/images/products/241646/product/Foto_01_2399742_Ra%C3%A7%C3%A3o_Seca_F%C3%B3rmula_Natural_Fresh_Meat_C%C3%A3es_Adultos_Ra%C3%A7as_Mini_e_Pequena.jpg"
+            },
+            {
+               "qtd":7,
+               "unidade":"kg",
+               "preco":"R$ 27,00",
+               "label":"Pacote de 7kg",
+               "url":"https://www.petlove.com.br/images/products/241646/product/Foto_01_2399742_Ra%C3%A7%C3%A3o_Seca_F%C3%B3rmula_Natural_Fresh_Meat_C%C3%A3es_Adultos_Ra%C3%A7as_Mini_e_Pequena.jpg"
+            }
+         ]
+      },
+      {
+         "id":6,
+         "titulo":"Ração Farmina N&D Quinoa Skin & Coat Pato para Cães Adultos de Todas as Raças",
+         "descricoes":[
+            {
+               "descricao1":"- Proporciona alivio na digestão;",
+               "descricao2":"- Contém um sabor irresistível para nossos amigos;",
+               "descricao3":"- Livre de Transgênicos;",
+               "descricao4":"- Com vitaminas, essenciais para mante-lo ainda mais saudável;",
+               "descricao5":"- Desenvolvida com ingredientes naturais a partir do extrato: calêndula, linhaça e quinioa."
+            }
+         ],
+         "detalhes":"A Ração Farmina N&D Quinoa Skin & Coat Pato para Cães Adultos de Todas as Raças foi desenvolvida especificamente para ajudar na digestão dos cachorros. Todos os seu ingredientes foram estudados e selecionados para proporcionar mais qualidade de vida e bem estar após as refeições.",
+         "tamanhos":[
+            {
+               "qtd":0.8,
+               "unidade":"g",
+               "preco":"R$ 65.25",
+               "label":"Pacote de 800g",
+               "url":"https://www.petlove.com.br/images/products/197209/product/Ra%C3%A7%C3%A3o_Farmina_N_D_Quinoa_Skin___Coat_Pato_para_C%C3%A3es_Adultos_de_Todas_as_Ra%C3%A7as_1894293.jpg"
+            },
+            {
+               "qtd":10.1,
+               "unidade":"kg",
+               "preco":"R$ 353,61",
+               "label":"Pacote de 10.1kg",
+               "url":"https://www.petlove.com.br/images/products/197209/product/Ra%C3%A7%C3%A3o_Farmina_N_D_Quinoa_Skin___Coat_Pato_para_C%C3%A3es_Adultos_de_Todas_as_Ra%C3%A7as_1894293.jpg"
+            }
+         ]
+      },
+      {
+         "id":7,
+         "titulo":"Ração Premier Golden Formula Cães Filhotes Frango e Arroz",
+         "descricoes":[
+            {
+               "descricao1":"- Saúde oral: auxilia a redução da formação do tártaro;",
+               "descricao2":"- Crescimento saudável: feito com DHA e proteína de qualidade elevada;",
+               "descricao3":"- Intestino saudável: combinação de nutrientes de alta digestibilidade e fibras naturais;",
+               "descricao4":"- Redução do odor das fezes: seleção de ingredientes especiais que auxiliam na redução do odor das fezes."
+            }
+         ],
+         "detalhes":"A Ração Premier Golden Formula Cães Filhotes Frango e Arroz é um alimento Premium Especial completo que visa, acima de tudo, proporcionar aos cães o nível ideal de todos os nutrientes que eles necessitam para um crescimento forte e saudável.",
+         "tamanhos":[
+            {
+               "qtd":1,
+               "unidade":"kg",
+               "preco":"R$ 18,81",
+               "label":"Pacote de 1kg",
+               "url":"https://www.petlove.com.br/images/products/223489/product/Ra%C3%A7%C3%A3o_Premier_Golden_Formula_C%C3%A3es_Filhotes_Frango_e_Arroz_31014043_1KG.jpg"
+            },
+            {
+               "qtd":3,
+               "unidade":"kg",
+               "preco":"R$ 16,17",
+               "label":"Pacote de 3kg",
+               "url":"https://www.petlove.com.br/images/products/223490/product/Ra%C3%A7%C3%A3o_Premier_Golden_Formula_C%C3%A3es_Filhotes_Frango_e_Arroz_31014043_3KG.jpg"
+            },
+            {
+               "qtd":15,
+               "unidade":"kg",
+               "preco":"R$ 9,17",
+               "label":"Pacote de 15kg",
+               "url":"https://www.petlove.com.br/images/products/223492/product/Ra%C3%A7%C3%A3o_Premier_Golden_Formula_C%C3%A3es_Filhotes_Frango_e_Arroz_31014043_15KG.jpg"
+            },
+            {
+               "qtd":20,
+               "unidade":"kg",
+               "preco":"R$ 8,82",
+               "label":"Pacote de 20kg",
+               "url":"https://www.petlove.com.br/images/products/223493/product/Ra%C3%A7%C3%A3o_Premier_Golden_Formula_C%C3%A3es_Filhotes_Frango_e_Arroz_31014043_20KG.jpg"
+            }
+         ]
+      },
+      {
+         "id":8,
+         "titulo":"Ração Seca PremieR Pet Golden Salmão para Gatos Adultos Castrados",
+         "descricoes":[
+            {
+               "descricao1":"- Sabor inigualável: máxima satisfação para o paladar;",
+               "descricao2":"- Trato urinário saudável: minerais balanceados e controle do pH urinário;",
+               "descricao3":"- Intestino saudável: combinação de ingredientes de alta digestibilidade e prebióticos;",
+               "descricao4":"- Redução do odor das fezes: seleção de ingredientes especiais que auxiliam na redução do odor das fezes."
+            }
+         ],
+         "detalhes":"Procedimento cada vez mais recomendado pelos médicos veterinários, a castração promove inúmeros benefícios, mas também alterações fisiológicas que exigem alguns cuidados extras com a dieta do seu gato. Especialmente formulada para atender às necessidades dos gatos castrados, a Ração Seca PremieR Pet Golden Salmão para Gatos Adultos Castrados auxilia na prevenção da obesidade e no cuidado com o trato urinário, garantindo uma nutrição ótima e saudável.",
+         "tamanhos":[
+            {
+               "qtd":1,
+               "unidade":"kg",
+               "preco":"R$ 23,31",
+               "label":"Pacote de 1kg",
+               "url":"https://www.petlove.com.br/images/products/213111/product/Ra%C3%A7%C3%A3o_Golden_Gatos_Adultos_Castrados_Salm%C3%A3o_31022435_1kg.jpg"
+            },
+            {
+               "qtd":3,
+               "unidade":"kg",
+               "preco":"R$ 17,97",
+               "label":"Pacote de 3kg",
+               "url":"https://www.petlove.com.br/images/products/213112/product/Ra%C3%A7%C3%A3o_Golden_Gatos_Adultos_Castrados_Salm%C3%A3o_31022435_3kg.jpg"
+            },
+            {
+               "qtd":6,
+               "unidade":"kg",
+               "preco":"R$ 15,74",
+               "label":"Pacote de 6kg",
+               "url":"https://www.petlove.com.br/images/products/226781/product/Ra%C3%A7%C3%A3o_Seca_PremieR_Pet_Golden_Salm%C3%A3o_para_Gatos_Adultos_Castrados_31022435.jpg"
+            },
+            {
+               "qtd":10.1,
+               "unidade":"kg",
+               "preco":"R$ 13,85",
+               "label":"Pacote de 10,1kg",
+               "url":"https://www.petlove.com.br/images/products/228608/product/Ra%C3%A7%C3%A3o_Seca_PremieR_Pet_Golden_Salm%C3%A3o_para_Gatos_Adultos_Castrado_31022435.jpg"
+            }
+         ]
+      },
+      {
+         "id":9,
+         "titulo":"Ração Magnus Todo Dia Sabor Carne para Cães Adultos",
+         "descricoes":[
+            {
+               "descricao1":"- Contém selênio orgânico e antioxidantes que combatem os radicais livres;",
+               "descricao2":"- Indicado para cachorros acima de 12 meses;",
+               "descricao3":"- Promove a manutenção ideal para esta fase;",
+               "descricao4":"- Ômegas 3 e 6 , biotina e zinco orgânico."
+            }
+         ],
+         "detalhes":"A Ração Magnus Todo Dia Sabor Carne para Cães Adultos contém ingredientes que proporcionam um alimento com todos os nutrientes essenciais e importantes para a qualidade de vida do seu cachorro.",
+         "tamanhos":[
+            {
+               "qtd":15,
+               "unidade":"kg",
+               "preco":"R$ 8,07",
+               "label":"Pacote de 15kg",
+               "url":"https://www.petlove.com.br/images/products/225830/product/Ra%C3%A7%C3%A3o_Magnus_Todo_Dia_Sabor_Carne_para_C%C3%A3es_Adultos_311810.jpg"
+            },
+            {
+               "qtd":25,
+               "unidade":"kg",
+               "preco":"R$ 7,57",
+               "label":"Pacote de 25kg",
+               "url":"https://www.petlove.com.br/images/products/225830/product/Ra%C3%A7%C3%A3o_Magnus_Todo_Dia_Sabor_Carne_para_C%C3%A3es_Adultos_311810.jpg"
+            }
+         ]
+      }
+   ]
+}
